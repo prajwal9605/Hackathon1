@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "302112568416",
+    "firebase_url": "https://hackathon-a8cff.firebaseio.com",
+    "project_id": "hackathon-a8cff",
+    "storage_bucket": "hackathon-a8cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302112568416:android:7ed81b5e111891b9",
+        "android_client_info": {
+          "package_name": "com.example.prajwalkulkarni.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302112568416-nufjqbv11svp8et2th8ivhpgdf2r1ak1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prajwalkulkarni.hackathon",
+            "certificate_hash": "bd65b78ead346f5c61706e4503e53c62ae9572d0"
+          }
+        },
+        {
+          "client_id": "302112568416-ea3gs8kc2s8fehs6e5fh951618i0no09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgDqhTd3XnzLP2_ja1S2utUZQV8Kfeko0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302112568416-ea3gs8kc2s8fehs6e5fh951618i0no09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302112568416:android:bf14a7ae20239cfc",
+        "android_client_info": {
+          "package_name": "com.example.prajwalkulkarni.hackathon1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302112568416-9d10i7n20srnvm2qos4t2tb1jn81pg3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prajwalkulkarni.hackathon1",
+            "certificate_hash": "bd65b78ead346f5c61706e4503e53c62ae9572d0"
+          }
+        },
+        {
+          "client_id": "302112568416-ea3gs8kc2s8fehs6e5fh951618i0no09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgDqhTd3XnzLP2_ja1S2utUZQV8Kfeko0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302112568416-ea3gs8kc2s8fehs6e5fh951618i0no09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
